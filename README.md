@@ -9,6 +9,6 @@ After you go to instagram-phishing directory, enter this command on your cmd:
 <sup> php -S 127.0.0.1:3000 </sup>
 **Forth Step:**
 Open another cmd and enter this command:
-' ssh -R 80:127.0.0.1:8000 nokey@localhost.run '
+<sub> ssh -R 80:127.0.0.1:8000 nokey@localhost.run </sub>
 **Final Step:**
 Then you can see a url. copy this url and send to the target.
