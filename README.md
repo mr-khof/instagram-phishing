@@ -1,6 +1,6 @@
 # instagram phishing script
 This script was created for get instagram user information.
-_ First Step: _
+_First Step:
 to use this script, you need to install php or xampp and ssh on your system.
 # Second Step:
 open command prompt and with 'cd' command go to project directory.
